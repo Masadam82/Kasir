@@ -1,0 +1,4 @@
+Barang = Telur
+harga = 5000
+jumlah = 5
+total = 25000
